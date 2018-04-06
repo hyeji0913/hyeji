@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+void(){
+    while(i<=9){
+      printf("%d x %d = %d\n",n,i,n*i);
+      i+=1;
+  }
+}
+
+main(){
+      int num;
+      scanf("%d",&num);
+      
+      }
